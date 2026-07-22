@@ -104,7 +104,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Yash Goel**
 - B.Sc. Economics (Hons.) | Gokhale Institute of Politics and Economics, Pune
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://linkedin.com/in/yashgoel815)
 - [GitHub](https://github.com/whygoel)
 
 ---
